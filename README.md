@@ -1,15 +1,8 @@
 
 > Open this page at [https://ritvikray.github.io/flashing-heart-1/](https://ritvikray.github.io/flashing-heart-1/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/ritvikray/flashing-heart-1** and import
-
+## turtorial
+* [turtorial](https://ritvikray.github.io/flashing-heart-1/turtorial)
 ## Edit this project ![Build status badge](https://github.com/ritvikray/flashing-heart-1/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
