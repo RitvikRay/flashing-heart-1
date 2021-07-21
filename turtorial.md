@@ -1,4 +1,4 @@
-# Flashing Heart
+# Flashing Heart - For Begginers
 
 ## Step 1
 
