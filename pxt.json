@@ -10,8 +10,7 @@
     "files": [
         "main.ts",
         "README.md",
-        "turtorial.md",
-        "turtorial.ts"
+        "turtorial.md"
     ],
     "testFiles": [
         "test.ts"
