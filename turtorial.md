@@ -4,7 +4,6 @@
 
 Drag the icon blocks from the basic section and put it in a forever loop.
 ```blocks
-bazaar.showStuff()
 basic.forever(function () {
     basic.showIcon(IconNames.Heart)
 })
